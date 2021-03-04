@@ -1,3 +1,8 @@
+/* Download har file with Chrome or Firefox developer tools(network)
+ * Then extract har file with this script
+ *  Author: Jarod Guo
+ *  Date Created: 12 Dec 2020
+ */
 import groovy.json.JsonSlurper 
 
 def slurper = new JsonSlurper()
